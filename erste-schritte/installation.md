@@ -1,3 +1,7 @@
+---
+description: Eine Anleitung für die Installation von Lumi
+---
+
 # Installation
 
 ## Download

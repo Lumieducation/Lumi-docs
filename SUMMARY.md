@@ -2,7 +2,9 @@
 
 * [Lumi](README.md)
 
-## Erste Schritte <a id="first-steps"></a>
+## Erste Schritte
 
-* [Installation](first-steps/installation.md)
+* [Installation](erste-schritte/installation.md)
+* [H5P](erste-schritte/h5p.md)
+* [Lumi](erste-schritte/lumi.md)
 
