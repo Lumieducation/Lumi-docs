@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Lumi](README.md)
-* [Untitled](untitled.md)
 
 ## Erste Schritte
 
