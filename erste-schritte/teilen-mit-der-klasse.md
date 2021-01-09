@@ -2,7 +2,7 @@
 description: Wie kann ich H5P an meine Lerngruppe verteilen?
 ---
 
-# Teilen mit der Klasse
+# Inhalte mit der Lerngruppe teilen
 
 Wenn du erfahren möchtest, was [H5P](h5p.md) oder [Lumi](lumi.md) ist, oder wie du Lumi [installierst](installation.md), dann klicke einfach auf die Links.
 
