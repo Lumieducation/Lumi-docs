@@ -1,5 +1,5 @@
 ---
-description: Wie kann ich das erstelle H5P an meine Lerngruppe verteilen?
+description: Wie kann ich H5P an meine Lerngruppe verteilen?
 ---
 
 # Teilen mit der Klasse
