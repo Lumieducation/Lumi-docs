@@ -1,5 +1,5 @@
 ---
-description: Eine Erklärung zu Lumi
+description: Eine Erklärung zu Lumi.
 ---
 
 # Lumi
