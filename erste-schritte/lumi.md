@@ -2,7 +2,7 @@
 description: Eine Erklärung zu Lumi.
 ---
 
-# Lumi
+# Was ist Lumi?
 
 Bislang war [H5P](h5p.md) an Lernplattformen wie Moodle oder Content-Management-Systeme wie Wordpress gebunden. Lumi bietet den H5P Editor als einfach ausführbare Anwendung für den Desktop an. 
 

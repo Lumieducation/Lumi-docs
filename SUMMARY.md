@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Lumi](README.md)
+* [Lumi Education](README.md)
 
 ## Erste Schritte
 
-* [Download & Installation](erste-schritte/installation.md)
+* [Was ist Lumi?](erste-schritte/lumi.md)
 * [Was ist H5P?](erste-schritte/h5p.md)
-* [Lumi](erste-schritte/lumi.md)
+* [Download & Installation](erste-schritte/installation.md)
 * [Inhalte mit der Lerngruppe teilen](erste-schritte/teilen-mit-der-klasse.md)
 

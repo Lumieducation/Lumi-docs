@@ -4,11 +4,5 @@ description: >-
   interaktiven Inhalten auf H5P-Basis ermöglicht.
 ---
 
-# Lumi
-
-![](.gitbook/assets/screenshot1.png)
-
-
-
-
+# Lumi Education
 
