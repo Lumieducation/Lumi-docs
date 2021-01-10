@@ -18,7 +18,7 @@ Hinweis: Sollte sich die App nicht öffnen lassen, weil sie von einem unbekannte
 
 * Rechtsklick auf die App
 * Öffnen aus dem Dialog wählen
-* Nochmaliges bestätigen des Öffnens
+* Nochmaliges Bestätigen des Öffnens
 
 
 
