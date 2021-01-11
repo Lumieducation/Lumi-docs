@@ -8,6 +8,8 @@ Wenn du erfahren möchtest, was [H5P](h5p.md) oder [Lumi](lumi.md) ist, oder wie
 
 H5P zu erstellen ist eine Sache. Das erstellte H5P als Lernmaterial zur Verfügung zu stellen eine andere. Bislang waren dafür im Internet gehostete Webseiten nötig. Lumi bietet nun die Möglichkeit die H5P-Datei als HTML-Datei zu exportieren!
 
+![](../.gitbook/assets/lumi-html-export.gif)
+
 Dazu musst du einfach im Menü auf "Export..." klicken:
 
 ![Lumi: Export als Men&#xFC;-Option](../.gitbook/assets/screenshot-2021-01-09-at-18.36.23.png)
