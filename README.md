@@ -9,7 +9,7 @@ Lumi ist eine Desktop-Anwendung, die das Erstellen, Bearbeiten und Teilen von in
 ![](.gitbook/assets/screenshot1.png)
 
 * [Download](https://next.lumi.education/#download)
-* [Erste Schritte](erste-schritte/installation.md)
+* [Erste Schritte](getting-started/installation.md)
 
 
 

@@ -1,5 +1,5 @@
 ---
-description: Eine Anleitung für die Installation von Lumi
+description: A guide on how to install Lumi on different operating systems.
 ---
 
 # Installation

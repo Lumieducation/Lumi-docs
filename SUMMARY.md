@@ -2,10 +2,15 @@
 
 * [Lumi](README.md)
 
-## Erste Schritte
+## Getting Started
 
-* [Installation](erste-schritte/installation.md)
-* [H5P](erste-schritte/h5p.md)
-* [Lumi](erste-schritte/lumi.md)
-* [Teilen mit der Klasse](erste-schritte/teilen-mit-der-klasse.md)
+* [Installation](getting-started/installation.md)
+* [H5P](getting-started/h5p.md)
+* [Lumi](getting-started/lumi.md)
+* [Teilen mit der Klasse](getting-started/teilen-mit-der-klasse.md)
+
+## Analytics
+
+* [What is Lumi Analytics](analytics/what-is-lumi-analytics.md)
+* [Lernreport analysieren](analytics/lernreport-analysieren.md)
 
