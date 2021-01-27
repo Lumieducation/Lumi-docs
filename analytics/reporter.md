@@ -6,10 +6,6 @@ description: >-
 
 # Reporter
 
-Most H5P Content Types generate [xAPI](https://xapi.com) Statements. \(See [https://h5p.org/documentation/x-api](https://h5p.org/documentation/x-api) \)
-
-These xAPI Statements contain information about what a user does and achieves. 
-
 Lumi allows you to integrate a reporter into your exported html files, which collects these xAPI statements and makes this data available in a downloadable\* file. The reporter is visible as a toolbar on top of the H5P content. After finishing the H5P content you can click on the arrow in the top right corner and download a `.lumi` file. This `.lumi` file contains these xAPI Statements, data and information about the user's actions and achievements. Students can send these `.lumi` files back to their instructor and the instructor can evaluate and analyze these reports with [Lumi Analytics](analytics.md).
 
 ![](../.gitbook/assets/lumi_xapi_export%20%281%29.gif)
