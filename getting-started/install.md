@@ -2,7 +2,7 @@
 description: A guide on how to install Lumi on different operating systems.
 ---
 
-# Installation
+# Install
 
 ## Download
 

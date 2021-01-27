@@ -1,26 +1,28 @@
 ---
-description: Wie kann ich H5P an meine Lerngruppe verteilen?
+description: >-
+  This guide explains on how export H5P Content as HTML file and how to share it
+  with your course.
 ---
 
-# Teilen mit der Klasse
+# How to share H5P content
 
-Wenn du erfahren möchtest, was [H5P](h5p.md) oder [Lumi](lumi.md) ist, oder wie du Lumi [installierst](installation.md), dann klicke einfach auf die Links.
+If you want to know what [H5P](h5p.md) or [Lumi](lumi.md) is, or how you [install](install.md) Lumi, just click on the links.
 
-H5P zu erstellen ist eine Sache. Das erstelle H5P als Lernmaterial zur Verfügung zu stellen eine andere. Bislang waren dafür im Internet gehostete Webseiten nötig. Lumi bietet nun die Möglichkeit die H5P-Datei als HTML Datei zu exportieren!
+Creating H5P is one thing. To make the H5P content available for your stundents another. Until now it was necessary to host the H5P content on a website in the internet. Lumi offers the possibilty to export your H5P Content as a single HTML file.
 
-Dazu musst du einfach im Menü auf "Export..." klicken:
+Just open the menu and click on "Export..." 
 
 ![Lumi: Export als Men&#xFC;-Option](../.gitbook/assets/screenshot-2021-01-09-at-18.36.23.png)
 
 
 
-Im nächsten Schritt wählst du einfach den Namen der HTML Datei und klickst auf "save".
+In the next step you give the HTML file a name and click on "save".
 
 ![Lumis H5P Export Dialog](../.gitbook/assets/screenshot-2021-01-09-at-18.37.07.png)
 
 
 
-Die erzeugte HTML Datei kann nun auf jedem Weg an die Lernenden gesendet werden. Ob über Email, WhatsApp, Dropbox, oder eigenes LMS ist egal. Die HTML Datei lässt sich dann von den Lernenden in jedem Browser öffnen und ausführen:
+The generated HTML file can be distributed on any way. It doesn't matter if you send it via Email, WhatsApp, Dropxbox or a LMS. The HTML file can be opened by every browser.
 
 ![H5P als HTML Datei](../.gitbook/assets/screenshot-2021-01-09-at-18.40.09.png)
 

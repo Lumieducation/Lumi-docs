@@ -2,7 +2,7 @@
 description: Eine Erklärung zu H5P.
 ---
 
-# H5P
+# What is H5P?
 
 ## H5P - HTML 5 Package
 

@@ -4,13 +4,13 @@
 
 ## Getting Started
 
-* [Installation](getting-started/installation.md)
-* [H5P](getting-started/h5p.md)
+* [Install](getting-started/install.md)
+* [What is H5P?](getting-started/h5p.md)
 * [Lumi](getting-started/lumi.md)
-* [Teilen mit der Klasse](getting-started/teilen-mit-der-klasse.md)
+* [How to share H5P content](getting-started/teilen-mit-der-klasse.md)
 
 ## Analytics
 
-* [What is Lumi Analytics](analytics/analytics.md)
+* [What is Lumi Analytics?](analytics/analytics.md)
 * [Reporter](analytics/reporter.md)
 

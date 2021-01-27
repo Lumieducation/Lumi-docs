@@ -1,2 +1,2 @@
-# What is Lumi Analytics
+# What is Lumi Analytics?
 
