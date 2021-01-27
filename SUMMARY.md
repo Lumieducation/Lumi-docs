@@ -11,6 +11,6 @@
 
 ## Analytics
 
-* [What is Lumi Analytics](analytics/what-is-lumi-analytics.md)
+* [What is Lumi Analytics](analytics/analytics.md)
 * [Reporter](analytics/reporter.md)
 
