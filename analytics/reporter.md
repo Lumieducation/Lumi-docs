@@ -16,7 +16,7 @@ Lumi allows you to integrate a reporter into your exported html files, which col
 
 When exporting a H5P as html from the menu you will be asked wheather you want to include the reporter or not:
 
-![](../.gitbook/assets/lumi_include_reporter.gif)
+![](../.gitbook/assets/lumi_include_reporter%20%281%29.gif)
 
 
 
