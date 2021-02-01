@@ -11,5 +11,5 @@
 
 ## Analytics
 
-* [Erste Schritte mit Lumi Analytics](analytics/was-ist-lumi-analytics.md)
+* [Erste Schritte mit Lumi Analytics](analytics/erste-schritte.md)
 
