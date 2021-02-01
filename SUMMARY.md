@@ -11,6 +11,5 @@
 
 ## Analytics
 
-* [Was ist Lumi Analytics?](analytics/was-ist-lumi-analytics.md)
-* [Lernreport erstellen](analytics/lernreport-erstellen.md)
+* [Erste Schritte mit Lumi Analytics](analytics/was-ist-lumi-analytics.md)
 
