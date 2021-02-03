@@ -12,4 +12,5 @@
 ## Analytics
 
 * [Erste Schritte mit Lumi Analytics](analytics/erste-schritte.md)
+* [Export der Report-Datei](analytics/export-der-report-datei.md)
 
